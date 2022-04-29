@@ -37,16 +37,4 @@ Hi, I'm Mr.Phuyal
 
 Now go and start the program on more terminals or even or different computers!
 
-## Notes
 
-As you can see, the implementation is very simple, but `libp2p` gives you a very 
-powerful set of libraries. Even if the Javascript implementation is not 100% finished
-yet, you can already built very interesting decentralized applications!
-
-### Ideas
-
-Did you ever try the awful chat applications on the plane? Now, you can use libp2p
-to build a nice Electron app (or mobile app) for you and your friends on long flights!
-You just have to create a LAN network from your notebook or phone and you are good to go!
-
-Have fun!
