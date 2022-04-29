@@ -31,8 +31,8 @@ Congratulations! You have established a two-way chat. Try to write something fro
 Discovered: QmRDfm4JGAg1HyMHbXco3SwBpXBtXLsuw9DBdmCFANFrBZ
 Connection established to: QmRDfm4JGAg1HyMHbXco3SwBpXBtXLsuw9DBdmCFANFrBZ
 nodeA dialed to nodeB on protocol: /chat/1.0.0
-Hi, I'm bob
-Hi, I'm Pavel
+Hi, I'm Gautam
+Hi, I'm Mr.Phuyal
 ```
 
 Now go and start the program on more terminals or even or different computers!
